@@ -1,0 +1,10 @@
+#ifndef UML_GENERATOR_ACCESS_H
+#define UML_GENERATOR_ACCESS_H
+
+enum Access {
+    PRIVATE,
+    PROTECTED,
+    PUBLIC
+};
+
+#endif //UML_GENERATOR_ACCESS_H
