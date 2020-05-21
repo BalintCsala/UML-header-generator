@@ -2,7 +2,7 @@
 
 Generate compileable header files that double as UML diagrams.
 
-###Building
+### Building
 
 Requires LibClang and CMake
 
@@ -13,7 +13,7 @@ cmake -f CMakeLists.txt
 make
 ```
 
-###Usage
+### Usage
 
 ```
 uml_generator <source directory> <main file> <output directory>
